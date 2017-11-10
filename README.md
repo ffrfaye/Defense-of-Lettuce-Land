@@ -3,4 +3,4 @@ Final project for UCLA Winter 2016 PIC 10C Advanced Programming course. A RPG fe
 # Production
 C++ and Qt.
 # Running
-CLone the repo. Need to install Qt then open and run the project.
+Clone the repo. Need to install Qt then open and run the project.
